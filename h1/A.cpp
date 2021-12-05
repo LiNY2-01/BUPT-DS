@@ -14,4 +14,4 @@ int main()
     int *p=new int ;
     *p=ans;
     cout<<*p;
-}
+}///
